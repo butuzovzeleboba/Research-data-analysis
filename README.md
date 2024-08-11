@@ -1,5 +1,4 @@
-# Research-data-analysis 
-Описание проекта
+# Описание проекта
 
 Я работаю над проектом, цель которого — научиться определять рыночную стоимость объектов недвижимости в Санкт-Петербурге и его окрестностях. Для этого у меня есть доступ к архиву объявлений о продаже квартир из сервиса Яндекс Недвижимость, который охватывает несколько лет. Моя задача — провести исследовательский анализ данных и выявить параметры, которые оказывают влияние на цену квартир.
 
@@ -8,7 +7,7 @@
 Цель моего анализа — установить, как эти параметры влияют на стоимость недвижимости. Это позволит мне разработать автоматизированную систему, которая сможет отслеживать аномалии в ценах и выявлять возможные случаи мошенничества. Таким образом, система поможет обеспечить более прозрачный и честный рынок недвижимости.
 
 
-Project Description
+# Project Description
 I am working on a project aimed at learning how to determine the market value of real estate properties in St. Petersburg and its surrounding areas. For this, I have access to an archive of apartment sale listings from the Yandex Real Estate service, which covers several years. My task is to conduct an exploratory data analysis and identify parameters that influence the price of apartments.
 
 For each apartment listed for sale, there are two types of data available: the first type is entered by the user, while the second is obtained automatically based on cartographic data. For example, the distance to the city center, the airport, and other significant city objects is calculated using geoservices and does not require user intervention. The number of parks and bodies of water near the apartment is also determined automatically.
